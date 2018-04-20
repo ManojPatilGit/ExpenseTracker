@@ -1,0 +1,65 @@
+{
+	MainCategory : {
+		"MainCatName" : "INVESTMENT",
+		"SubCategory" : {
+			"SubCatName" : "LifeInsurance",
+			 	"Expenditure" : {
+					"Tag" : "JeevanAnand",
+					"Amount" : "25000",
+					"Date" : 15-02-2018
+					}	
+			 	 	"Expenditure" : {
+					"Tag" : "LICTermPolicy",
+					"Amount" : "25000",
+					"Date" : 15-02-2018
+					}
+			 	},
+			"SubCatName" : "SIP",
+				"Expenditure" : {
+					"Tag" : "L&T",
+					"Amount" : "5000",
+					"Date" : 15-03-2018
+					}
+				},
+			"SubCatName" : "MutualFund",
+				"Expenditure" : {
+					"Tag" : "L&T Infrastructure",
+					"Amount" : "50000",
+					"Date" : 20-003-2018
+					}
+				},
+			},
+		"MainCatName" : "HOUSEHOLD",
+		"SubCategory" : {
+			"SubCatName" : "Groceries",
+			 	"Expenditure" : {
+					"Tag" : "DMART",
+					"Amount" : "2000",
+					"Date" : 15-02-2018
+					},	
+			 	"Expenditure" : {
+					"Tag" : "DMART",
+					"Amount" : "5000",
+					"Date" : 20-02-2018
+					},
+				"Expenditure" : {
+					"Tag" : "Vegetables",
+					"Amount" : "200",
+					"Date" : 20-02-2018
+					}
+			 	},
+			"SubCatName" : "Rent",
+				"Expenditure" : {
+					"Tag" : "HomeRent",
+					"Amount" : "5000",
+					"Date" : 15-03-2018
+					},
+					"Expenditure" : {
+					"Tag" : "ParkingRent",
+					"Amount" : "5000",
+					"Date" : 15-03-2018
+					}
+				},
+			},
+		}
+	}
